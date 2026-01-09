@@ -24,6 +24,7 @@ The objective is twofold:
 ---
 
 ## Project Structure
+```
 medical-insurance-project/
 │── data/
 │ ├── insurance.csv
@@ -40,7 +41,7 @@ medical-insurance-project/
 │── utils/
 │ └── insurance_pipeline.py
 │── README.md
-
+```
 
 ---
 
